@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045938396413",
+    "firebase_url": "https://loja-1c64a.firebaseio.com",
+    "project_id": "loja-1c64a",
+    "storage_bucket": "loja-1c64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045938396413:android:7b5aac40056b1afdf53294",
+        "android_client_info": {
+          "package_name": "com.giovannylima.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045938396413-a45d0shqa5phq36ts1sj36c11b7qlek7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYODMj2vhkUM329L-feUcSGI8uD51W6EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045938396413-a45d0shqa5phq36ts1sj36c11b7qlek7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
